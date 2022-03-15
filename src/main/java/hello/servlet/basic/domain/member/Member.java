@@ -1,4 +1,4 @@
-package hello.servlet.basic.domain.mamber;
+package hello.servlet.basic.domain.member;
 
 public class Member {
     private Long id;

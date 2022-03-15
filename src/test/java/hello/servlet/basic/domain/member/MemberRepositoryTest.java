@@ -1,4 +1,4 @@
-package hello.servlet.basic.domain.mamber;
+package hello.servlet.basic.domain.member;
 
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.DisplayName;
@@ -7,7 +7,6 @@ import org.junit.jupiter.api.Test;
 import java.util.List;
 
 import static org.assertj.core.api.Assertions.assertThat;
-import static org.junit.jupiter.api.Assertions.*;
 
 @DisplayName("MemberRepositoryTest 클래스")
 class MemberRepositoryTest {

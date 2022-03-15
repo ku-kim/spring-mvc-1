@@ -1,6 +1,6 @@
 package hello.servlet.basic.web.servlet;
 
-import hello.servlet.basic.domain.mamber.MemberRepository;
+import hello.servlet.basic.domain.member.MemberRepository;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
